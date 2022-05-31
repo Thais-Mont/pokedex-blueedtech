@@ -5,6 +5,3 @@ closeMessage.addEventListener("click", function (){
   mensagem.style.display = "none";
 });
 
-if(mensagem === "") {
-  mensagem.style.display = "none";
-}

@@ -63,12 +63,11 @@ const pokedex = [
 ];
 
 let pokemon = undefined;
-let mensagem = undefined;
+let mensagem = "";
 
 // Rotas
 app.get("/", (req, res) => {
-    res.render("index", { pokedex, pokemon, mensagem });
- ;
+    res.render("index", { pokedex, pokemon, mensagem});
 });
 
 app.get("/cadastro", (req, res) => {

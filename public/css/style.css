@@ -17,7 +17,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   background-image: url(../img/bg-pokedex.jpg);
-  background-color: rgba(95, 255, 169, 0.8);
+  background-color: -rgba(95, 255, 169, 0.8);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -398,7 +398,7 @@ footer {
     display: none;
   }
 
-  #description {
+  #description-detalhes {
     margin-top: 70px;
     font-size: 13px;
     margin-left: -158px;
