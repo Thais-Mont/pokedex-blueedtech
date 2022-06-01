@@ -3,15 +3,38 @@
 Projetos desenvolvidos durante o curso de FullStack.
 Usando as tecnologias: HTML, CSS, JAVASCRIPT, EXPRESS.
 
+Deploy: https://projeto-pokedex-blueedtech.herokuapp.com/
+
 ---
+### Instruções
 
-- **Projeto 02 - Pokedéx** <a name="id01"></a>
-- **Acesse aqui:** 
+* Primeiro é necessário instalar o Node.
 
-![]
+```
+acessar url https://nodejs.org/en/download/
+```
 
+* Após o download ou clone do projeto, execute no seu terminal
 
-Aprendizados:
+```
+npm install
+```
 
+* Para executar o Projeto
 
---- 
+```
+npm run dev
+```
+
+### App
+
+acessar url http://localhost:3000
+
+Você terá acesso as seguintes telas :
+
+![Tela principal](https://raw.githubusercontent.com/Thais-Mont/pokedex-blueedtech/blob/master/imagens/tela-principal.PNG)
+
+![Tela de Detalhes](https://raw.githubusercontent.com/Thais-Mont/pokedex-blueedtech/blob/master/imagens/tela-detalhes.PNG)
+
+![Tela de Cadastro](https://raw.githubusercontent.com/Thais-Mont/pokedex-blueedtech/blob/master/imagens/tela-cadastro.PNG)
+
