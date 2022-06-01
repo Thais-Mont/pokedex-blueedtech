@@ -378,6 +378,8 @@ footer {
     height: 638px;
     object-fit: cover;
     object-position: center;
+    border-radius: 31px;
+    border: 12px solid black;
   }
 
   #card-pokebola-detalhes {
