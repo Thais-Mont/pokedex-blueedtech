@@ -10,9 +10,7 @@ Deploy: https://projeto-pokedex-blueedtech.herokuapp.com/
 
 * Primeiro é necessário instalar o Node.
 
-```
-acessar url https://nodejs.org/en/download/
-```
+* [NodeJs] https://nodejs.org/en/download/
 
 * Após o download ou clone do projeto, execute no seu terminal
 
