@@ -32,9 +32,13 @@ acessar url http://localhost:3000
 
 Você terá acesso as seguintes telas :
 
-![Tela principal](https://raw.githubusercontent.com/Thais-Mont/pokedex-blueedtech/blob/master/imagens/tela-principal.PNG)
+**Tela Principal** 
 
-![Tela de Detalhes](https://raw.githubusercontent.com/Thais-Mont/pokedex-blueedtech/blob/master/imagens/tela-detalhes.PNG)
+![Tela principal](https://github.com/Thais-Mont/pokedex-blueedtech/blob/master/imagens/tela-principal.PNG)
 
-![Tela de Cadastro](https://raw.githubusercontent.com/Thais-Mont/pokedex-blueedtech/blob/master/imagens/tela-cadastro.PNG)
+**Tela de Detalhes** 
+![Tela de Detalhes](https://github.com/Thais-Mont/pokedex-blueedtech/blob/master/imagens/tela-detalhes.PNG)
+
+**Tela de Cadastro** 
+![Tela de Cadastro](https://github.com/Thais-Mont/pokedex-blueedtech/blob/master/imagens/tela-cadastro.PNG)
 
